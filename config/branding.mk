@@ -1,6 +1,6 @@
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
-MORBIOS_BASE_VERSION := Experimental
+MORBIOS_BASE_VERSION := GoodBye
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
